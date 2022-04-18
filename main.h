@@ -40,4 +40,4 @@ int print_rev(va_list);
 void _print_rev(char *s, int *count);
 
 
-#endif /* HOLBERTON_H */
+#endif 

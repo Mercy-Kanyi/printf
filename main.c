@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <limits.h>
-#include "holberton.h"
+#include "main.h"
 /**
  * main - Entry point
  * we are going to have two functions 1 to print
